@@ -1,4 +1,4 @@
-# cashguard
+# KAuth
 
 A new Flutter project.
 
