@@ -1,6 +1,6 @@
-# KAuth: Counterfeit Detection Application for Philippine Peso Banknote using Image Processing through Convolutional Neural Network 
+# KAuth
 
-A Flutter-based mobile application for secure authentication and verification.
+Counterfeit Detection Application for Philippine Peso Banknote using Image Processing through Convolutional Neural Network.
 
 ## Features
 
